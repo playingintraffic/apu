@@ -1,5 +1,8 @@
 ![pit_apu_thumb](https://playingintraffic.site/site/public/assets/images/resource_thumbnails/pit_apu_thumb.jpg)
 
+> **BETA RELEASE**
+Any issues let me know it can be fixed. Any suggestions for improvements on function? Same again give me a shout.
+
 # APU - Animation & Prop Utility
 
 ## What is it?
