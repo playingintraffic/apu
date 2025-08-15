@@ -1,0 +1,32 @@
+/*
+    This file is part of APU (Animation & Prop Utility) and is licensed under the MIT License.
+    See the LICENSE file in the root directory for full terms.
+
+    © 2025 Case @ Playing In Traffic
+
+    Support honest development - retain this credit. Don"t be that guy...
+*/
+
+/* 
+    Import Fonts 
+    You can import fonts from external API's here; e.g. https://fonts.google.com
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Kanit&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wdth@75..100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+/* 
+    Load Custom Fonts 
+    You can load custom fonts here, place your font into correct folder and copy format below.
+*/
+
+/*
+@font-face {
+    font-family: "YourFont";
+    src: url("/ui/assets/fonts/yourfont.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+*/

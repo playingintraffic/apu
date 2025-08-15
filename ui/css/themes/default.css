@@ -1,0 +1,93 @@
+/*
+    This file is part of APU (Animation & Prop Utility) and is licensed under the MIT License.
+    See the LICENSE file in the root directory for full terms.
+
+    © 2025 Case @ Playing In Traffic
+
+    Support honest development - retain this credit. Don"t be that guy...
+*/
+
+body.default {
+    /* Fonts */
+    --header_font: "League Spartan";
+    --text_font: "Roboto";
+
+    /* Border Radius */
+    --border_radius_outer: 4px;
+    --border_radius_inner: 3px;
+
+    /* Backgrounds */
+    --background_main: rgba(22, 22, 22, 0.85);
+    --background_panel: rgba(31, 30, 30, 0.85);
+    --background_hover: rgba(50, 48, 48, 0.85);
+    --background_overlay: rgba(0, 0, 0, 0.5);
+
+    /* Text */
+    --text_primary: #fff;
+    --text_secondary: #b4b4b4;
+    --text_tertiary: #666;
+
+    /* Accents */
+    --accent: #e4ad29;
+    --accent2: #c08f1e;
+    --accent3: #b53232;
+    --accent4: #666;
+
+    /* Borders */
+    --border_dark: 0.2vh solid rgba(0, 0, 0, 0.5);
+    --border_light: 0.2vh solid rgba(255, 255, 255, 0.1);
+    --border_dashed: 0.1vh dashed #666;
+
+    /* Shadows */
+    --shadow_soft: 0 1px 2px rgba(0, 0, 0, 0.5);
+    --shadow_medium: 0 2px 4px rgba(0, 0, 0, 0.6);
+    --shadow_large: 0 4px 8px rgba(0, 0, 0, 0.75);
+    
+    --inset_shadow_large: inset 2px 0px 2px rgba(0, 0, 0, 0.5), inset 0px 2px 2px rgba(0, 0, 0, 0.5), inset -2px 0px 2px rgba(0, 0, 0, 0.5), inset 0px -2px 2px rgba(0, 0, 0, 0.5);
+    --inset_shadow_small: inset 1px 0px 1px rgba(0, 0, 0, 0.5), inset 0px 1px 1px rgba(0, 0, 0, 0.5), inset -1px 0px 1px rgba(0, 0, 0, 0.5), inset 0px -1px 1px rgba(0, 0, 0, 0.5);
+    
+    --text_shadow_hard: -1px -1px 0px rgba(0, 0, 0, 1), 1px -1px 0px rgba(0, 0, 0, 1), -1px 1px 0px rgba(0, 0, 0, 1), 1px 1px 0px rgba(0, 0, 0, 1);
+
+    /* Gradients */
+    --gradient_fade_left: linear-gradient(to right, rgba(20, 20, 20, 1) 0%, rgba(20, 20, 20, 0.5) 15%, rgba(20, 20, 20, 0) 30%);
+    --gradient_fade_right: linear-gradient(to left, rgba(20, 20, 20, 1) 0%, rgba(20, 20, 20, 0.5) 15%, rgba(20, 20, 20, 0) 30%);
+    --gradient_fade_both: linear-gradient(to right, rgba(20, 20, 20, 1) 0%, rgba(20, 20, 20, 0.5) 15%, rgba(20, 20, 20, 0.25) 25%, rgba(20, 20, 20, 0.25) 75%, rgba(20, 20, 20, 0.5) 85%, rgba(20, 20, 20, 1) 100%);
+
+    /* Buttons */
+    --button_padding: 0.2vh 1vh;
+
+    /* Scrollbars */
+    --scrollbar_track: rgba(255, 255, 255, 0.25);
+    --scrollbar_thumb: rgba(255, 255, 255, 0.8);
+
+    /* Icons */
+    --icon_primary: #fff;
+    --icon_secondary: #666;
+    
+    /* Tooltip */
+    --tooltip_title: black;
+    --tooltip_rarity_badge: black;
+
+    /* Namecard Colors */
+    --rank_bronze: #cd7f32;
+    --rank_silver: #c0c0c0;
+    --rank_gold: #ffd700;
+    --rank_platinum: #4ee2ec;
+    --rank_diamond: #00bfff;
+    --rank_master: #a020f0;
+    --rank_legend: #ff4500;
+
+    /* Rarity Colours */
+    --rarity_common: rgba(255, 255, 255, 0.8);
+    --rarity_uncommon: rgba(38, 189, 38, 0.8);
+    --rarity_rare: rgba(66, 135, 245,  0.8);
+    --rarity_epic: rgba(119, 45, 189,  0.8);
+    --rarity_legendary: rgba(219, 144, 57,  0.8);
+
+    /* Notify Colors */
+    --notify_success: #2ecc71;
+    --notify_error: #e74c3c;
+    --notify_info: #3498db;
+    --notify_warning: #f39c12;
+    --notify_primary: #9b59b6;
+}
