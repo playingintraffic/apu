@@ -23,13 +23,6 @@ Useful for setting up animations inside scripts without needing to manually test
 - Uses a reusable `play_animation()` helper  
 - Fully standalone — no dependencies
 
-## What is APU?
-
-**APU** = **Animation & Prop Utility**
-
-It exists to save time when scripting animations.  
-It does one thing: lets you visually test animation setups and export the results.
-
 ## Quick Install
 
 1. Drop it into your servers resources 
@@ -45,7 +38,6 @@ The `play_animation()` function is included in the UI output, or available from 
 ![apu_1](https://github.com/user-attachments/assets/4ff7fbe7-4ee9-49a8-9bb1-e5a317f8f5dc)
 ![apu_2](https://github.com/user-attachments/assets/e984f33a-ea91-483c-b559-05b2db530287)
 ![apu_3](https://github.com/user-attachments/assets/dac04392-8454-466e-a597-46473c827f5d)
-
 
 ## Support
 
